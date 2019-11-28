@@ -1,4 +1,5 @@
 Mysql ：root/111111
+ Thymeleaf模板　　　https://www.jianshu.com/p/a842e5b5012e
 # 教你优雅的入门Spring Boot2.x
 
 **如果觉得不错就点击右上角star鼓励一下笔者吧(#^.^#)**
